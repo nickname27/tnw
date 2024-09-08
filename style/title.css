@@ -1,0 +1,13 @@
+.title {
+    margin: 40px 0;
+}
+
+.title__wrap {
+    text-align: center;
+}
+
+.title__text {
+    font-size: 22px;
+    font-weight: 700;
+    color: #3A3838;
+}
